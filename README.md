@@ -1,2 +1,2 @@
 # currency-conversion
-Currency converter
+Currency conversion setup
